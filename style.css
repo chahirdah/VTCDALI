@@ -6,7 +6,6 @@ font-family:Segoe UI;
 }
 
 /* Header */
-
 .header{
 
 display:flex;
@@ -265,5 +264,6 @@ nav{
 margin-top:10px;
 
 }
+
 
 }
